@@ -1,0 +1,7 @@
+C:\Users\anjal\source\repos\loops2\loops2\bin\Debug\loops2.exe.config
+C:\Users\anjal\source\repos\loops2\loops2\bin\Debug\loops2.exe
+C:\Users\anjal\source\repos\loops2\loops2\bin\Debug\loops2.pdb
+C:\Users\anjal\source\repos\loops2\loops2\obj\Debug\loops2.csproj.AssemblyReference.cache
+C:\Users\anjal\source\repos\loops2\loops2\obj\Debug\loops2.csproj.CoreCompileInputs.cache
+C:\Users\anjal\source\repos\loops2\loops2\obj\Debug\loops2.exe
+C:\Users\anjal\source\repos\loops2\loops2\obj\Debug\loops2.pdb
